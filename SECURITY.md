@@ -11,9 +11,7 @@ This is a fully static website — there is no server-side code. If you still
 find a security issue (for example a broken security header, a leaked secret,
 or something in the content that should not be public), please report it.
 
-> Replace the placeholder below with a real contact address before going live.
-
-- Report: **security@kaasolai.in** (placeholder — replace with a real mailbox)
+- Report: **[chinnaiyaprabhu@gmail.com](mailto:chinnaiyaprabhu@gmail.com)**
 - Confidentiality: please do not share the issue publicly until it is fixed.
 - Response: reports are acknowledged within 5 business days. There is no bug
   bounty programme.

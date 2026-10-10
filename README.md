@@ -84,9 +84,9 @@ headers**. For that reason the security settings live in `<meta>` tags inside
 - Content Security Policy (`meta http-equiv`) — scripts, styles, fonts,
   images all `'self'` only, no inline scripts, no CDNs, no trackers.
 - Referrer policy `strict-origin-when-cross-origin`.
-- `.well-known/security.txt` + `SECURITY.md` with a **placeholder** contact
-  (`security@kaasolai.in`). Replace it with a real mailbox before going live,
-  and roll the `Expires` date forward (both files).
+- `.well-known/security.txt` + `SECURITY.md` pointing at
+  `chinnaiyaprabhu@gmail.com`. Roll the `Expires` date forward in
+  `.well-known/security.txt` roughly every year.
 
 ## 7. Theme
 
