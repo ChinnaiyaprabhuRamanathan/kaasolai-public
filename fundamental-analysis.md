@@ -7,10 +7,7 @@ description: >-
 permalink: /fundamental-analysis/
 last_modified: 2025-10-24
 ---
-
-<img src="/assets/images/image-6.png" alt="" width="450" height="311">
-
-In Fundamental Analysis , Value is the Essence.
+<img src="/assets/images/image-6.png" width="450" />In Fundamental Analysis , Value is the Essence.
 
 ---
 
@@ -144,7 +141,7 @@ There are 3 sections in a balance sheet
 
 ---
 
-The Accounting Equation** : Assets = Liabilities + Equity**
+The Accounting Equation\*\* : Assets = Liabilities + Equity\*\*
 
 Net Working Capital = Current Assets – Current Liabilities
 
@@ -175,7 +172,7 @@ Checkout these profitability ratios from Balance Sheet,
   - Or Invested Capital = Debt + Equity + Minority Interest – Excess Cash.
   - Or Invested Capital = PPE + NonCurrent Operating Asset + Net Working Capital .
   - PPE is Property, Plant, and Equipment, i.e., Long Term tangible Asset used in Operation
-  - Also for a company to create value ROIC > WACC, Weighted Average Cost of Capital.
+  - Also for a company to create value ROIC &gt; WACC, Weighted Average Cost of Capital.
 
 ---
 
@@ -286,9 +283,10 @@ Checkout these CashFlow Metrics from CashFlow Statement,
 ---
 
 <details>
-  <summary>Lucid Chart</summary>
+<summary>Lucid Chart</summary>
 
-  <p><a href="https://lucid.app/lucidspark/bd3f43be-8ad5-4e61-9454-789c9967b975/edit?viewport_loc=-1420%2C-1294%2C4661%2C2406%2C0_0&invitationId=inv_6fc01546-0be4-4fd3-a305-dcec7cc0fdc8" target="_blank" rel="nofollow noopener noreferrer">https://lucid.app/lucidspark/bd3f43be-8ad5-4e61-9454-789c9967b975/edit?viewport_loc=-1420%2C-1294%2C4661%2C2406%2C0_0&invitationId=inv_6fc01546-0be4-4fd3-a305-dcec7cc0fdc8</a></p>
+https://lucid.app/lucidspark/bd3f43be-8ad5-4e61-9454-789c9967b975/edit?viewport_loc=-1420%2C-1294%2C4661%2C2406%2C0_0&invitationId=inv_6fc01546-0be4-4fd3-a305-dcec7cc0fdc8
+
 </details>
 
 ---
@@ -308,7 +306,9 @@ Some of the Valuation Methods :
 - P/E Ratio
 - PEG Ratio
 - P/B Ratio
-  - PB Ratio – Market price per share / Book value per share. P/B < 1 means undervalued, P/B > 1 means overvalued
+  - PB Ratio – Market price per share / Book value per share. P/B &lt; 1 means undervalued, P/B &gt; 1 means overvalued
 - P/S Ratio
 - EV/EBITDA Ratio
 - P/FCFF Ratio
+
+## 2. DCF - Discounted Cash Flow
