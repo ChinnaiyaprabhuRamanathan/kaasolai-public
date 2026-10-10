@@ -1,0 +1,35 @@
+# Site navigation.
+# Menu order and labels mirror the original WordPress site.
+# To add, rename or reorder a menu item, edit this ONE file.
+- title: Home
+  url: /
+
+- title: Economics
+  url: /economics/
+
+- title: Personal Finance Roadmap
+  url: /personal-finance-roadmap/
+
+- title: Market
+  url: /market/
+
+- title: Fundamental Analysis
+  url: /fundamental-analysis/
+
+- title: Technical Analysis
+  url: /technical-analysis/
+
+- title: Mutual funds investment
+  url: /equity-funds/
+
+- title: Corporate Action
+  url: /corporate-action/
+
+- title: Retirement Planning
+  url: /retirement-planning/
+
+- title: Derivatives
+  url: /derivates/
+
+- title: Community
+  url: /references/

@@ -1,0 +1,25 @@
+# kaasolai — Pages CMS configuration
+# Connect at https://app.pagescms.org with your GitHub account,
+# then "Open repository" for this repo.
+
+media:
+  input: assets/images
+  output: /assets/images
+  categories: [image]
+
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: ""
+    format: yaml-frontmatter
+    filename: "{title}.md"
+    view:
+      primary: title
+      fields: [title, last_modified]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Description, type: string }
+      - { name: permalink, label: Permalink, type: string, required: true }
+      - { name: last_modified, label: Last modified, type: datetime, options: { time: false, format: "yyyy-MM-dd" } }
+      - { name: body, label: Body, type: rich-text, options: { media: true, path: /assets/images, rename: false } }

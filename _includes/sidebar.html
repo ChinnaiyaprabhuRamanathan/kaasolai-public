@@ -1,0 +1,19 @@
+<aside class="sidebar" id="sidebar" aria-label="Sidebar">
+  <a class="brand" href="/" aria-label="kaasolai — home">
+    <span class="brand-name">kaasolai</span>
+  </a>
+
+  <nav class="nav" aria-label="Main">
+    <ul>
+      {% for item in site.data.navigation %}
+      <li>
+        <a href="{{ item.url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <div class="sidebar-footer">
+    {% include theme-toggle.html %}
+  </div>
+</aside>

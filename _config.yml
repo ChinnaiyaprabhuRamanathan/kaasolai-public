@@ -1,0 +1,52 @@
+# kaasolai — Jekyll configuration
+# Built for GitHub Pages. See README.md for the full guide.
+
+title: kaasolai
+name: kaasolai
+description: >-
+  Personal finance, economics, markets, fundamental and technical analysis,
+  mutual funds, corporate actions, retirement planning and derivatives —
+  everything you need to understand money better.
+url: https://kaasolai.in
+domain: kaasolai.in
+baseurl: ""
+lang: en
+timezone: Asia/Kolkata
+
+# Author / organization (used by JSON-LD structured data)
+author:
+  name: kaasolai
+  url: https://kaasolai.in
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins on the GitHub Pages allowed list
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Files/folders that must be copied verbatim into the built site
+include:
+  - .well-known
+
+# Files that must never be published under the site root
+exclude:
+  - README.md
+  - SECURITY.md
+  - .pages.yml
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+
+# Every Markdown page uses the shared layout by default
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+# Pages keep the WordPress slugs via front matter `permalink`
+permalink: pretty

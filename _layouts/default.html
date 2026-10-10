@@ -1,0 +1,43 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}" data-theme="dark">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="topbar">
+      <button type="button" class="menu-toggle" id="menu-toggle" aria-label="Open the menu" aria-controls="sidebar" aria-expanded="false">
+        <svg class="icon icon-menu" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"></path></svg>
+      </button>
+      <a class="topbar-brand" href="/" aria-label="kaasolai — home">kaasolai</a>
+      {% include theme-toggle.html %}
+    </div>
+
+    <div class="shell">
+      {% include sidebar.html %}
+
+      <main id="main" class="main" tabindex="-1">
+        <article class="entry">
+          <h1>{{ page.h1 | default: page.title }}</h1>
+
+          {{ content }}
+
+          {% if page.last_modified %}
+          <p class="updated" id="last-updated">Last updated: {{ page.last_modified | date: "%B %d, %Y" }}</p>
+          {% endif %}
+        </article>
+      </main>
+    </div>
+
+    {% include footer.html %}
+
+    <div class="scrim" id="scrim" hidden></div>
+
+    <script src="/assets/js/site.js" defer></script>
+    <script src="/assets/js/redirects.js" defer></script>
+  </body>
+</html>

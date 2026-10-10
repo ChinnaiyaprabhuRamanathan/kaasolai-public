@@ -1,0 +1,19 @@
+---
+title: Page not found
+layout: default
+noindex: true
+sitemap: false
+last_modified: 2026-09-20
+---
+
+<p>The page you are looking for does not exist. It may have been moved on the new site, or the link may be old.</p>
+
+<p>Here are the pages on this site:</p>
+
+<ul>
+{% for item in site.data.navigation %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+
+<p><a class="btn" href="/">Go to Home</a></p>

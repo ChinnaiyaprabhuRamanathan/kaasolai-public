@@ -1,0 +1,23 @@
+{
+  "name": "kaasolai",
+  "short_name": "kaasolai",
+  "description": "Personal finance, economics, markets, fundamental and technical analysis, mutual funds, corporate actions, retirement planning and derivatives.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/assets/images/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
