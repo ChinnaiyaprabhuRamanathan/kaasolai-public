@@ -1,27 +1,13 @@
 ---
 title: Market
 description: >-
-  Market timings, UPI cut-off timings for Zerodha, and a market landmarks table
-  of corrections and recoveries from 1992 to 2020.
+  A market timeline and a market landmarks table of corrections and recoveries
+  from 1992 to 2020.
 permalink: /market/
 last_modified: 2025-10-21
 ---
 
-<img src="/assets/images/image-3.png" alt="" width="620" height="376">
-
-## Market Timings
-
-pre opening ———– 9:00 am to 9:15 pm
-
-normal timings ——– 9:15 am to 3:30 pm
-
-post closing ———– 3:30 pm to 4:00 pm
-
-**Cut Off timings for UPI ( Zerodha ),**
-
-Liquid Schemes ———- 12:30pm, T-1 day NAV
-
-Equity, Debt, Hybrid —– 02:00pm, T day NAV
+<img src="/assets/images/Timeline.png" alt="" width="1080" height="1350">
 
 ## Market Landmarks
 
