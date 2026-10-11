@@ -1,8 +1,8 @@
 # kaasolai — Jekyll configuration
 # Built for GitHub Pages. See README.md for the full guide.
 
-title: kaasolai
-name: kaasolai
+title: kaasolai.in
+name: kaasolai.in
 description: >-
   Personal finance, economics, markets, fundamental and technical analysis,
   mutual funds, corporate actions, retirement planning and derivatives —
@@ -15,7 +15,7 @@ timezone: Asia/Kolkata
 
 # Author / organization (used by JSON-LD structured data)
 author:
-  name: kaasolai
+  name: kaasolai.in
   url: https://kaasolai.in
 
 # Build settings

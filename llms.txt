@@ -1,4 +1,4 @@
-# kaasolai
+# kaasolai.in
 
 Personal finance, economics, markets, fundamental and technical analysis,
 mutual funds, corporate actions, retirement planning and derivatives —
@@ -9,15 +9,15 @@ Full site: https://kaasolai.in
 ## Pages
 
 - [Home](https://kaasolai.in/) — https://kaasolai.in/
-- [Economics](https://kaasolai.in/economics/) — https://kaasolai.in/economics/
 - [Personal Finance Roadmap](https://kaasolai.in/personal-finance-roadmap/) — https://kaasolai.in/personal-finance-roadmap/
+- [Retirement Planning](https://kaasolai.in/retirement-planning/) — https://kaasolai.in/retirement-planning/
+- [Mutual funds investment](https://kaasolai.in/equity-funds/) — https://kaasolai.in/equity-funds/
 - [Market](https://kaasolai.in/market/) — https://kaasolai.in/market/
 - [Fundamental Analysis](https://kaasolai.in/fundamental-analysis/) — https://kaasolai.in/fundamental-analysis/
 - [Technical Analysis](https://kaasolai.in/technical-analysis/) — https://kaasolai.in/technical-analysis/
-- [Mutual funds investment](https://kaasolai.in/equity-funds/) — https://kaasolai.in/equity-funds/
 - [Corporate Action](https://kaasolai.in/corporate-action/) — https://kaasolai.in/corporate-action/
-- [Retirement Planning](https://kaasolai.in/retirement-planning/) — https://kaasolai.in/retirement-planning/
 - [Derivatives](https://kaasolai.in/derivates/) — https://kaasolai.in/derivates/
+- [Economics](https://kaasolai.in/economics/) — https://kaasolai.in/economics/
 - [Community](https://kaasolai.in/references/) — https://kaasolai.in/references/
 
 ## Files

@@ -1,5 +1,5 @@
 ---
-title: kaasolai
+title: kaasolai.in
 description: >-
   Personal finance, economics, markets, fundamental and technical analysis,
   mutual funds, corporate actions, retirement planning and derivatives —

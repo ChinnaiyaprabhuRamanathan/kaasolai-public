@@ -6,7 +6,7 @@ permalink: /derivates/
 last_modified: 2025-10-21
 ---
 
-<img src="/assets/images/thappanavan.jpg" alt="" width="335" height="159">
+<img src="/assets/images/thappanavan.jpg" alt="" width="100%">
 
 - Forward
 - Futures
